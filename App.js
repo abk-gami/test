@@ -18,3 +18,10 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+
+// Fred to Fenerbahçe, here we go! Deal in place with Manchester United, proposal revealed earlier has been accepted and verbal agreement reached 🚨🟡🔵
+
+// Fred has agreed terms with Fenerbahçe and will travel for medical tests soon.
+
+// Exclusive story, confirmed.
