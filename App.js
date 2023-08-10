@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>I am just testinggg
-        
+        time to create maps app
       </Text>
       <StatusBar style="auto" />
     </View>
